@@ -216,6 +216,7 @@ width: 100%;
 .bio-container {
  color: white;
  padding: 2rem 5rem;
+
 }
 
 .bio-container h1 {
@@ -232,6 +233,8 @@ width: 100%;
 
 .bio-container p {
  line-height: 2;
+ max-width: 800px;
+margin: 0 auto;
 }
 
 .bio-container h1::before {
